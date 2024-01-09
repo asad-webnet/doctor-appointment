@@ -29,5 +29,11 @@ npm start
 
 
 ## Application Password
+To access the APIs (Protected ones which can only be accessed by doctor) from postman;
+<br/>**Use basic authentication **<br/>
+username: doctor<br/>  password: doctor <br/>
+<br/>
+If accessing through frontend application:
+
 username : doctor <br />
 password : doctor
