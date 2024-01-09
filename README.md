@@ -26,3 +26,8 @@ To start the react application, simple go to the frontend folder and write the f
 ```
 npm start
 ```
+
+
+## Application Password
+username : doctor <br />
+password : doctor
